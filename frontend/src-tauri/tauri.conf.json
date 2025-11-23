@@ -9,7 +9,6 @@
         "beforeDevCommand": "pnpm dev",
         "beforeBuildCommand": "pnpm build"
     },
-
     "app": {
         "windows": [{
             "title": "meetily",
